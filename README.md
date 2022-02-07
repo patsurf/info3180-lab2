@@ -1,4 +1,4 @@
-# INFO3180 - Lab 2
+# INFO3180 - Lab 2 Patrici Surf
 
 This is the starter code for Lab 2
 
